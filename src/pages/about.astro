@@ -9,7 +9,7 @@ import Layout from "../layouts/main.astro";
   <section class="relative z-20 max-w-2xl mx-auto my-12 px-7 lg:px-0">
     <PageHeading
       title="About Me"
-      description="Hello 👋 I'm a frontend engineer from Nanjing, China. I'm passionate about building new products and learning new technology."
+      description="Hello 👋 I'm a full stack developer from Vadodara, India. I'm passionate about building comprehensive web applications and constantly expanding my technical skills."
     />
 
     <img src="/assets/images/about.jpg" class="relative z-30 w-full my-10 rounded-xl" />
@@ -39,6 +39,7 @@ import Layout from "../layouts/main.astro";
                     company={experience.company}
                     description={experience.description}
                     logo={experience.logo}
+                    set:html
                   />
                 </div>
               ) : (
@@ -48,6 +49,7 @@ import Layout from "../layouts/main.astro";
                   company={experience.company}
                   description={experience.description}
                   logo={experience.logo}
+                  set:html
                 />
               )}
             </>
@@ -61,10 +63,10 @@ import Layout from "../layouts/main.astro";
       class="text-sm leading-6 text-gray-600 dark:text-neutral-400 sm:leading-7 lg:leading-8 sm:text-base lg:text-lg"
     >
       If you want to stay up to date with my work be sure to <a
-        href="https://twitter.com/ccikai"
+        href="https://in.linkedin.com/in/dilipkumar189"
         target="_blank"
-        class="text-indigo-600 underline">follow me on twitter</a
-      >, or you can send me an <a href="mailto:astro-aria#miantiao.me" class="text-indigo-600 underline"
+        class="text-indigo-600 underline">Connect with me</a
+      >, or you can send me an <a href="mailto:suthardilip189@gmail.com" class="text-indigo-600 underline"
         >email</a
       > and I'll be sure to get back to you.
     </p>

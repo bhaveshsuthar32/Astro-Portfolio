@@ -1,20 +1,20 @@
 [
 	{
-		"name": "Email.ML",
-		"description": "Minimalist temporary Email.",
-		"image": "/assets/images/projects/email.ml.png",
-		"url": "https://email.ml"
+		"name": "VPL",
+		"description": "Comprehensive cricket tournament management platform.",
+		"image": "/assets/images/projects/cricket.png",
+		"url": "https://github.com/dilipkumar189/VPL-Cricket-Tournament"
 	},
 	{
-		"name": "DNS.Surf",
-		"description": "Querying DNS Resolution Results in Different Regions Worldwide.",
-		"image": "/assets/images/projects/dns.surf.png",
-		"url": "https://dns.surf"
+		"name": "E-Market",
+		"description": "Scalable web app for EVs.",
+		"image": "/assets/images/projects/ev.png",
+		"url": "https://github.com/dilipkumar189/E-Market"
 	},
 	{
-		"name": "HTML.ZONE",
-		"description": "Web Toolbox.",
-		"image": "/assets/images/projects/html.zone.png",
-		"url": "https://html.zone"
+		"name": "Portfolio Website",
+		"description": "Showcasing diverse projects highlighting my development skills and creativity",
+		"image": "/assets/images/projects/portfolio.png",
+		"url": "https://portfolio-website-two-umber.vercel.app/"
 	}
 ]

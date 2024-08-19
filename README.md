@@ -14,7 +14,7 @@ Welcome to my portfolio! This is a showcase of my work, skills, and projects tha
 
 ## About Me
 
-Hello! I'm Dilip Kumar, a passionate Full Stack Developer based in Vadodara. I specialize in building responsive web applications, creating user-friendly interfaces, etc. My goal is to create impactful and efficient solutions that enhance user experience.
+Hello! I'm Bhavesh suthar, a passionate Full Stack Developer based in Vadodara. I specialize in building responsive web applications, creating user-friendly interfaces, etc. My goal is to create impactful and efficient solutions that enhance user experience.
 
 ## Projects
 

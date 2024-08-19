@@ -35,4 +35,4 @@ Here are some of the projects I've worked on:
 Feel free to reach out to me:
 
 - **Email**: [bhaveshsuthar4434@gmail.com](mailto:bhaveshsuthar4434@gmail.com)
-- **LinkedIn**: [https://www.linkedin.com/in/bhavesh-suthar32/](https://www.linkedin.com/in/bhavesh-suthar32/)
+- **LinkedIn**: [https://www.linkedin.com/in/bhavesh-suthar32](https://www.linkedin.com/in/bhavesh-suthar32)

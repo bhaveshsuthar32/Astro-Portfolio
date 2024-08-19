@@ -1,0 +1,20 @@
+[
+	{
+		"name": "E-Market",
+		"description": "A project with user and admin panels, dedicated to electric vehicle management.",
+		"image": "/assets/images/projects/ev.png",
+		"url": "https://github.com/bhaveshsuthar32/E-Market"
+	},
+	{
+		"name": "VPL",
+		"description": "Comprehensive cricket tournament management platform.",
+		"image": "/assets/images/projects/vpl.png",
+		"url": "https://github.com/bhaveshsuthar32/VPL-Cricket-Tournament"
+	},
+	{
+		"name": "Portfolio Website",
+		"description": "Showcasing diverse projects highlighting my development skills and creativity",
+		"image": "/assets/images/projects/portfolio01.png",
+		"url": "https://bhaveshsuthar032.vercel.app/"
+	}
+]

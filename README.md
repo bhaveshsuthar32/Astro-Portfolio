@@ -14,7 +14,7 @@ Welcome to my portfolio! This is a showcase of my work, skills, and projects tha
 
 ## About Me
 
-Hello! I'm Dilip Kumar, a passionate Full Stack Developer based in Vadodara. I specialize in building responsive web applications, creating user-friendly interfaces, etc. My goal is to create impactful and efficient solutions that enhance user experience.
+Hello! I'm Bhavesh suthar, a passionate Full Stack Developer based in Vadodara. I specialize in building responsive web applications, creating user-friendly interfaces, etc. My goal is to create impactful and efficient solutions that enhance user experience.
 
 ## Projects
 
@@ -34,13 +34,5 @@ Here are some of the projects I've worked on:
 
 Feel free to reach out to me:
 
-- **Email**: [suthardilip189@gmail.com](mailto:suthardilip189@gmail.com)
-- **LinkedIn**: [https://in.linkedin.com/in/dilipkumar189](https://in.linkedin.com/in/dilipkumar189)
-
-## Installation
-
-To view this portfolio locally, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/dilipkumar189/Astro-Portfolio.git
+- **Email**: [bhaveshsuthar4434@gmail.com](mailto:bhaveshsuthar4434@gmail.com)
+- **LinkedIn**: [https://www.linkedin.com/in/bhavesh-suthar32](https://www.linkedin.com/in/bhavesh-suthar32)

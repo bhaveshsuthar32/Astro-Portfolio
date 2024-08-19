@@ -34,13 +34,5 @@ Here are some of the projects I've worked on:
 
 Feel free to reach out to me:
 
-- **Email**: [suthardilip189@gmail.com](mailto:bhaveshsuthar4434.com)
-- **LinkedIn**: [https://in.linkedin.com/in/dilipkumar189](https://in.linkedin.com/in/dilipkumar189)
-
-## Installation
-
-To view this portfolio locally, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/bhaveshsuthar32/Astro-Portfolio.git
+- **Email**: [bhaveshsuthar4434.com](mailto:bhaveshsuthar4434.com)
+- **LinkedIn**: [https://www.linkedin.com/in/bhavesh-suthar32/](https://www.linkedin.com/in/bhavesh-suthar32/)

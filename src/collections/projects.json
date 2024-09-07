@@ -3,13 +3,13 @@
 		"name": "E-Market",
 		"description": "A project with user and admin panels, dedicated to electric vehicle management.",
 		"image": "/assets/images/projects/ev.png",
-		"url": "https://github.com/bhaveshsuthar32/E-Market"
+		"url": "https://ev-market-iota.vercel.app/"
 	},
 	{
 		"name": "VPL",
 		"description": "Comprehensive cricket tournament management platform.",
-		"image": "/assets/images/projects/vpl.png",
-		"url": "https://github.com/bhaveshsuthar32/VPL-Cricket-Tournament"
+		"image": "https://res.cloudinary.com/dsp9kw0cm/image/upload/v1725712709/Screenshot_114_zspmii.png",
+		"url": "https://vpl-cricket-tournament.vercel.app/"
 	},
 	{
 		"name": "Portfolio Website",
